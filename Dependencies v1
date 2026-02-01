@@ -1,0 +1,11 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.0
+  google_maps_flutter: ^2.5.0
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2  # The Database
+  intl: ^0.19.0              # For Dates
+  flutter_animate: ^4.5.0    # Professional Animations
+  sensors_plus: ^5.0.0       # Shake Detection
+  permission_handler: ^11.3.0 # Better permission management
